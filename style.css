@@ -56,10 +56,7 @@ body {
     text-align: center;
 }
 
-#dobra01 esquerda,
-direita {
-    color: white;
-}
+
 
 #topDobra02 {
     margin-top: 35px;
@@ -111,37 +108,37 @@ direita {
     margin-top: 15px;
 }
 
-#iago {
+#sonari {
     padding: 24px;
     margin-top: 112px;
     height: 550px;
     margin-left: 73px;
 }
 
-#iago img {
+#sonari img {
     height: 266px;
     width: 300px;
 }
 
-#eduardo {
+#malarum {
     margin-top: 151px;
     padding: 40px;
     margin-left: 34px;
 }
 
-#alisson img {
+#avlis img {
     height: 264px;
     width: 295px;
 }
 
-#alisson {
+#avlis {
     padding: 24px;
     margin-left: 75px;
     height: 404px;
     margin-top: 3px;
 }
 
-#davi {
+#joseff {
     padding: 0px;
     margin-left: 79px;
     margin-top: 28px;
@@ -149,7 +146,6 @@ direita {
 
 .textoImagens {
     color: white;
-    text-transform: uppercase;
     margin-top: 30px;
 }
 
@@ -189,12 +185,14 @@ direita {
 }
 
 #rodape {
+  
     background-color: #000000c9;
     border-radius: 0 15%;
     width: 100%;
-    height: 500px;
+    height: 550px;
 
 }
+
 
 #botaorodape {
    margin-top: 58px;
@@ -306,4 +304,8 @@ direita {
     padding: 2%;
     text-align: center;
     margin-left: 33%;
+}
+#textoCopy a{
+    color: white;
+    text-decoration: none;
 }
